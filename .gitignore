@@ -1,0 +1,7 @@
+/test
+/toPaste
+*.swp
+.DS_Store
+*.pyc
+__pycache__
+a.out
